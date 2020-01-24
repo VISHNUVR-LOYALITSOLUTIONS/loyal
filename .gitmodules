@@ -1,0 +1,4 @@
+[submodule "VISHNUVR-LOYALITSOLUTIONS/loyal"]
+	path = VISHNUVR-LOYALITSOLUTIONS/loyal
+	url = git@github.com:VISHNUVR-LOYALITSOLUTIONS/loyal.git
+	branch = abcd
